@@ -1,0 +1,8 @@
+[
+    { "idUrl": 0, "imgUrl": "./logo/angular.svg", "label": "Angular" },
+    { "idUrl": 1, "imgUrl": "./logo/js.svg", "label": "JS" },
+    { "idUrl": 2, "imgUrl": "./logo/nestjs.svg", "label": "NestJS" },
+    { "idUrl": 3, "imgUrl": "./logo/nodejs.svg", "label": "NodeJS" },
+    { "idUrl": 4, "imgUrl": "./logo/react.svg", "label": "React" },
+    { "idUrl": 5, "imgUrl": "./logo/vue.svg", "label": "Vue" }
+]

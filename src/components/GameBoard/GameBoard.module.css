@@ -1,0 +1,33 @@
+
+ul {
+    margin: 8px auto;
+    max-width: 576px;
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    gap: 4px;
+}
+
+li {
+    width: 88px;
+    height: 88px;
+    background-color: #F0C808;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    
+}
+
+li img {
+    display: block;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.rotated {
+    transform: rotateY(90deg);
+}
+
+.noRotated {
+    transform: rotateY(0deg);
+}
